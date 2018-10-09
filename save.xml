@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<book>
+    <author>
+        <author>
+            <name>Murakami</name>
+        </author>
+        <author>
+            <name>Haruki</name>
+        </author>
+    </author>
+    <PrezziAAA>
+        <prezzi>9.99</prezzi>
+        <prezzi>12.99</prezzi>
+    </PrezziAAA>
+    <title>Norwegian Wood</title>
+</book>
