@@ -1,4 +1,4 @@
-package Marshall;
+package Marshal;
 
 
 import javax.xml.bind.JAXBContext;
@@ -93,8 +93,9 @@ public class MainApp {
         Marshaller m = ctx.createMarshaller();
         m.setProperty(Marshaller.JAXB_FORMATTED_OUTPUT, true);
         m.marshal(book, System.out);
-        File f1 = new File("save.xml");
+        File f1 = new File("C:\\users\\utente\\desktop\\save.xml");
         m.marshal(book, f1);
+
 
         Unmarshaller um = ctx.createUnmarshaller();
         Book o1 = (Book) um.unmarshal(f1);
