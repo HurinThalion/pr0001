@@ -1,6 +1,6 @@
-package MetodiUtili;
+package metodiUtili;
 
-import static MetodiUtili.LeggiDaTastiera.leggiStringa;
+import static metodiUtili.LeggiDaTastiera.leggiStringa;
 
 public class ParseInteri {
 

@@ -1,6 +1,6 @@
 package Esercizi4;
 
-import MetodiUtili.LeggiDaTastiera;
+import metodiUtili.LeggiDaTastiera;
 
 public class ContaStringheMain {
 

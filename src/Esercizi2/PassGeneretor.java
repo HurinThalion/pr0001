@@ -1,6 +1,6 @@
 package Esercizi2;
 
-import static MetodiUtili.LeggiStringa.leggiInt;
+import static metodiUtili.LeggiStringa.leggiInt;
 
 public class PassGeneretor {
     public static void main(String[] args) {

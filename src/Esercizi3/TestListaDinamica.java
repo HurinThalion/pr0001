@@ -4,7 +4,6 @@ import Esercizi2.ListaDinamica;
 
 import java.util.Scanner;
 
-import static MetodiUtili.LeggiStringa.leggiInt;
 import static Ricorsione.Fib.fibonacci;
 import static Ricorsione.Fib.registraFib;
 

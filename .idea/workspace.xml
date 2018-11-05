@@ -2,15 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="019ebf27-f8c8-4d8c-aa28-b7c9e95d7c72" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/resource/test1_en.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/test1_fr.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/test1_it.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/esDate/UtilityDate.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resource/test_.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resource/test_.properties" beforeDir="false" afterPath="$PROJECT_DIR$/resource/test1.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resource/test__en.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resource/test__fr.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resource/test__it.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pr0001/Esercizi2/PassGeneretor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pr0001/Esercizi2/PassGeneretor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pr0001/Esercizi3/TestListaDinamica.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pr0001/Esercizi3/TestListaDinamica.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pr0001/Esercizi4/ContaStringheMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pr0001/Esercizi4/ContaStringheMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pr0001/MetodiUtili/LeggiDaTastiera.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pr0001/MetodiUtili/LeggiDaTastiera.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pr0001/MetodiUtili/LeggiStringa.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pr0001/MetodiUtili/LeggiStringa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pr0001/MetodiUtili/ParseInteri.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pr0001/MetodiUtili/ParseInteri.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pr0001/Ricorsione/SeIntero.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pr0001/Ricorsione/SeIntero.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi2/PassGeneretor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Esercizi2/PassGeneretor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi3/TestListaDinamica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Esercizi3/TestListaDinamica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi4/ContaStringheMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Esercizi4/ContaStringheMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MetodiUtili/LeggiDaTastiera.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/metodiUtili/LeggiDaTastiera.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MetodiUtili/LeggiStringa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/metodiUtili/LeggiStringa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MetodiUtili/ParseInteri.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/metodiUtili/ParseInteri.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ricorsione/SeIntero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ricorsione/SeIntero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/esDate/Viaggi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/esDate/Viaggi.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,7 +45,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="413" />
+          <entry key="java" value="424" />
           <entry key="properties" value="9" />
           <entry key="txt" value="1" />
           <entry key="xml" value="4" />
@@ -45,7 +53,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="413" />
+          <entry key="JAVA" value="424" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="Properties" value="9" />
           <entry key="XML" value="4" />
@@ -54,14 +62,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="25" />
-          <entry key="java" value="58464" />
+          <entry key="java" value="61131" />
           <entry key="properties" value="142" />
           <entry key="txt" value="44" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="58464" />
+          <entry key="JAVA" value="61131" />
           <entry key="PLAIN_TEXT" value="69" />
           <entry key="Properties" value="142" />
         </counts>
@@ -71,10 +79,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/esDate/MainLang.java">
+        <entry file="file://$PROJECT_DIR$/src/esDate/Viaggi.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+            <state relative-caret-position="240">
+              <caret line="19" column="38" lean-forward="true" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -83,39 +91,15 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resource/test1_fr.properties">
+        <entry file="file://$PROJECT_DIR$/src/esDate/UtilityDate.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="16" selection-start-column="16" selection-end-column="16" />
+            <state relative-caret-position="1408">
+              <caret line="64" column="73" lean-forward="true" selection-start-line="64" selection-start-column="73" selection-end-line="64" selection-end-column="73" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
-          <provider editor-type-id="ResourceBundle" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resource/test1.properties">
-          <provider selected="true" editor-type-id="text-editor" />
-          <provider editor-type-id="ResourceBundle" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resource/test1_en.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="42" lean-forward="true" selection-start-column="42" selection-end-column="42" />
-            </state>
-          </provider>
-          <provider editor-type-id="ResourceBundle" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resource/test1_it.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-column="42" />
-            </state>
-          </provider>
-          <provider editor-type-id="ResourceBundle" />
         </entry>
       </file>
     </leaf>
@@ -136,7 +120,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/TacoBell/Autovettura.java" />
         <option value="$PROJECT_DIR$/src/TacoBell/AppSet.java" />
         <option value="$PROJECT_DIR$/src/TacoBell/AppMap.java" />
         <option value="$PROJECT_DIR$/src/provaaa.java" />
@@ -177,16 +160,17 @@
         <option value="$PROJECT_DIR$/src/Marshall/MainApp.java" />
         <option value="$PROJECT_DIR$/src/Ripasso.java" />
         <option value="$PROJECT_DIR$/src/Marshal/MainApp.java" />
-        <option value="$PROJECT_DIR$/src/esDate/Viaggi.java" />
         <option value="$PROJECT_DIR$/src/esDate/MainDate.java" />
         <option value="$PROJECT_DIR$/src/resource/MainLang.java" />
         <option value="$PROJECT_DIR$/resource/test__en.properties" />
         <option value="$PROJECT_DIR$/resource/test__it.properties" />
         <option value="$PROJECT_DIR$/resource/test__fr.properties" />
-        <option value="$PROJECT_DIR$/src/esDate/MainLang.java" />
         <option value="$PROJECT_DIR$/resource/test1_it.properties" />
         <option value="$PROJECT_DIR$/resource/test1_fr.properties" />
         <option value="$PROJECT_DIR$/resource/test1_en.properties" />
+        <option value="$PROJECT_DIR$/src/esDate/MainLang.java" />
+        <option value="$PROJECT_DIR$/src/esDate/Viaggi.java" />
+        <option value="$PROJECT_DIR$/src/esDate/UtilityDate.java" />
       </list>
     </option>
   </component>
@@ -234,7 +218,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541417732829" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541434660564" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
@@ -262,7 +246,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MainLang">
+  <component name="RunManager" selected="Application.Viaggi">
     <configuration name="MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Marshal.MainApp" />
       <module name="pr0001" />
@@ -302,19 +286,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RandomTel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="esercizi8.RandomTel" />
-      <module name="pr0001" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="esercizi8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Scrivoo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Scrivoo" />
       <module name="pr0001" />
@@ -322,20 +293,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Viaggi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="esDate.Viaggi" />
+      <module name="pr0001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="esDate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.RandomTel" />
       <item itemvalue="Application.Scrivoo" />
       <item itemvalue="Application.MainApp" />
       <item itemvalue="Application.MainDate" />
       <item itemvalue="Application.MainLang" />
+      <item itemvalue="Application.Viaggi" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MainLang" />
+        <item itemvalue="Application.Viaggi" />
         <item itemvalue="Application.MainDate" />
+        <item itemvalue="Application.MainLang" />
         <item itemvalue="Application.MainApp" />
         <item itemvalue="Application.Scrivoo" />
-        <item itemvalue="Application.RandomTel" />
       </list>
     </recent_temporary>
   </component>
@@ -364,7 +348,14 @@
       <option name="project" value="LOCAL" />
       <updated>1541417417228</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="vedo se mi ricordo come si committa e pusha">
+      <created>1541417769597</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1541417769597</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView">
@@ -380,7 +371,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2671141" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2671141" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -389,13 +380,13 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32907802" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932885" visible="true" weight="0.27375886" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4986577" visible="true" weight="0.29219857" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32907802" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32907802" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50067115" side_tool="true" weight="0.25248227" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5013423" side_tool="true" weight="0.27375886" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32907802" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32907802" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -416,27 +407,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="vedo se mi ricordo come si committa e pusha" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Esercizi7/OpzionaleMultimediale/InterfacciaRip.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Esercizi7/OpzionaleMultimediale/InterfacciaNoRip.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Esercizi7/OpzionaleMultimediale/Luminosita.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Esercizi7/OpzionaleMultimediale/ElementoMultimediale.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
@@ -638,16 +608,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Marshal/MainApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
-          <caret line="105" lean-forward="true" selection-start-line="105" selection-end-line="105" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Calendar.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-5842">
@@ -683,13 +643,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/esDate/Viaggi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="3" column="174" selection-start-line="3" selection-start-column="174" selection-end-line="3" selection-end-column="174" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resource/test_.properties">
       <provider selected="true" editor-type-id="text-editor" />
       <provider editor-type-id="ResourceBundle" />
@@ -709,16 +662,6 @@
         </state>
       </provider>
       <provider editor-type-id="ResourceBundle" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/esDate/MainDate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-675">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resource/test__it.properties">
       <provider selected="true" editor-type-id="text-editor">
@@ -758,8 +701,62 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/esDate/MainLang.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="332">
+          <caret line="22" column="55" lean-forward="true" selection-start-line="22" selection-start-column="55" selection-end-line="22" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Marshal/MainApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="84" column="13" selection-start-line="84" selection-start-column="13" selection-end-line="84" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/metodiUtili/LeggiStringa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/metodiUtili/LeggiDaTastiera.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/esDate/MainDate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-440">
+          <caret line="31" column="89" lean-forward="true" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="89" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/esDate/UtilityDate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1408">
+          <caret line="64" column="73" lean-forward="true" selection-start-line="64" selection-start-column="73" selection-end-line="64" selection-end-column="73" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/esDate/Viaggi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="19" column="38" lean-forward="true" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

@@ -3,8 +3,8 @@
 package Ricorsione;
 
 
-import static MetodiUtili.LeggiDaTastiera.leggiStringa;
-import static MetodiUtili.ParseInteri.parseIntero;
+import static metodiUtili.LeggiDaTastiera.leggiStringa;
+import static metodiUtili.ParseInteri.parseIntero;
 
 public class SeIntero {
     public static void main(String[] args) {
