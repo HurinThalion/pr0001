@@ -19,7 +19,7 @@ public class MainLang {
         System.out.println(defaultLang);
 
 
-        ResourceBundle r = ResourceBundle.getBundle("test_", defaultLang!=null?defaultLang:Locale.CHINA);
+        ResourceBundle r = ResourceBundle.getBundle("test1", defaultLang!=null?defaultLang:Locale.CHINA);
         System.out.println(r.getString("home.titolo"));
 
     }
