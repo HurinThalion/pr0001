@@ -153,6 +153,10 @@
  --  --  -- Prodotti.java
  --  --  -- UtenteVideoteca.java
  --  --  -- VideotecaApp.java
+ -- eserciziPack3
+ --  -- giocoCarte
+ --  --  -- GiocoCarteApp.java
+ --  --  -- GiocoCarteMetodi.java
  -- inputOutput
  --  -- esFolderTree.java
  --  -- MainApp.java
