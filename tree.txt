@@ -1,162 +1,164 @@
- -- Adapter
- --  -- Dipendente.java
- --  -- DipendenteAdapter.java
- --  -- DipendenteInterface.java
- --  -- Impiegato.java
- --  -- MainAdpaterDipendente.java
- -- codeEnonSolo
- --  -- EsempioCode.java
- --  -- RuntimeApp.java
- -- Eccezioni
- --  -- DivByZeroException.java
- --  -- Prove.java
- --  -- Prove1.java
- -- Ereditarieta
- --  -- AppAb.java
- --  -- AppAzienda.java
- --  -- Azienda.java
- --  -- Contratto.java
- --  -- Dipendente.java
- --  -- Persona.java
  -- esDate
  --  -- MainDate.java
  --  -- MainLang.java
  --  -- UtilityDate.java
  --  -- Viaggi.java
- -- Esercizi
- --  -- AltroMain.java
- --  -- Elenco.java
- --  -- ModificaVariabili.java
- --  -- NumeroIntero.java
- --  -- Operatori.java
- --  -- Palindroma.java
- --  -- Persona.java
- --  -- Principale.java
- --  -- ProvaNumeroIntero.java
- --  -- Punto.java
- --  -- Struttura.java
- --  -- TestElenco.java
- --  -- TestEsercizi.java
- --  -- Utente.java
- --  -- Variabili.java
- -- Esercizi2
- --  -- App.java
- --  -- ListaDinamica.java
- --  -- Matrice.java
- --  -- Ordina.java
- --  -- PassGeneretor.java
- --  -- StampaAlfabeto.java
- --  -- StampaPari.java
- --  -- TavolaPitagorica.java
- -- Esercizi3
- --  -- AppEnum.java
- --  -- EssBooleane.java
- --  -- HttpMetodi.java
- --  -- Provaa.java
- --  -- ProvaaMain.java
- --  -- TestListaDinamica.java
- --  -- WrapperTest.java
- -- Esercizi4
- --  -- AncoraMatrici.java
- --  -- Anonymous.java
- --  -- ContaInStringa.java
- --  -- ContaStringheMain.java
- --  -- Inception.java
- --  -- LancioMoneta.java
- --  -- Potenza.java
- --  -- Scelte.java
- -- Esercizi5
- --  -- ArrayList1.java
- --  -- Auto.java
- --  -- CartaSassoForbice.java
- --  -- ChiamaAuto.java
- --  -- Cifratore.java
- --  -- CsfMain.java
- --  -- MainCifrario.java
- -- Esercizi6
- --  -- ArrayEsACaso.java
- --  -- Band.java
- --  -- BandApp.java
- --  -- Bassista.java
- --  -- Chitarrista.java
- --  -- InvertiStringa.java
- --  -- MonetaTruccata.java
- --  -- Potenza.java
- -- Esercizi7
- --  -- OpzionaleMultimediale
- --  --  -- AppMain.java
- --  --  -- Audio.java
- --  --  -- ElementoMultimediale.java
- --  --  -- Filmato.java
- --  --  -- Immagine.java
- --  --  -- InterfacciaNoRip.java
- --  --  -- InterfacciaRip.java
- --  --  -- LettoreMultimediale.java
- --  --  -- Luminosita.java
- --  --  -- Riproducibile.java
- --  -- PipeStringa.java
- --  -- PipeValerio.java
- -- esercizi8
- --  -- CercaParola.java
- --  -- DivisionePerZeroException.java
- --  -- Ecommerce
- --  --  -- AppComm.java
- --  --  -- Carrello.java
- --  --  -- Computer.java
- --  --  -- Prodotto.java
- --  --  -- Televisore.java
- --  -- EsEcc.java
- --  -- MainAppEs8.java
- --  -- RandomTel.java
- -- Esercizi_Oggetti
- --  -- Singleton.java
- -- Generici
- --  -- AppGenerici.java
+ -- eserciziPack
+ --  -- esercizi
+ --  --  -- AltroMain.java
+ --  --  -- Elenco.java
+ --  --  -- ModificaVariabili.java
+ --  --  -- NumeroIntero.java
+ --  --  -- Operatori.java
+ --  --  -- Palindroma.java
+ --  --  -- Persona.java
+ --  --  -- Principale.java
+ --  --  -- ProvaNumeroIntero.java
+ --  --  -- Punto.java
+ --  --  -- Struttura.java
+ --  --  -- TestElenco.java
+ --  --  -- TestEsercizi.java
+ --  --  -- Utente.java
+ --  --  -- Variabili.java
+ --  -- esercizi2
+ --  --  -- App.java
+ --  --  -- ListaDinamica.java
+ --  --  -- Matrice.java
+ --  --  -- Ordina.java
+ --  --  -- PassGeneretor.java
+ --  --  -- StampaAlfabeto.java
+ --  --  -- StampaPari.java
+ --  --  -- TavolaPitagorica.java
+ --  -- esercizi3
+ --  --  -- AppEnum.java
+ --  --  -- EssBooleane.java
+ --  --  -- HttpMetodi.java
+ --  --  -- Provaa.java
+ --  --  -- ProvaaMain.java
+ --  --  -- TestListaDinamica.java
+ --  --  -- WrapperTest.java
+ --  -- esercizi4
+ --  --  -- AncoraMatrici.java
+ --  --  -- Anonymous.java
+ --  --  -- ContaInStringa.java
+ --  --  -- ContaStringheMain.java
+ --  --  -- Inception.java
+ --  --  -- LancioMoneta.java
+ --  --  -- Potenza.java
+ --  --  -- Scelte.java
+ --  -- esercizi5
+ --  --  -- ArrayList1.java
+ --  --  -- Auto.java
+ --  --  -- CartaSassoForbice.java
+ --  --  -- ChiamaAuto.java
+ --  --  -- Cifratore.java
+ --  --  -- CsfMain.java
+ --  --  -- MainCifrario.java
+ --  -- esercizi6
+ --  --  -- ArrayEsACaso.java
+ --  --  -- Band.java
+ --  --  -- BandApp.java
+ --  --  -- Bassista.java
+ --  --  -- Chitarrista.java
+ --  --  -- InvertiStringa.java
+ --  --  -- MonetaTruccata.java
+ --  --  -- Potenza.java
+ --  -- esercizi7
+ --  --  -- OpzionaleMultimediale
+ --  --  --  -- AppMain.java
+ --  --  --  -- Audio.java
+ --  --  --  -- ElementoMultimediale.java
+ --  --  --  -- Filmato.java
+ --  --  --  -- Immagine.java
+ --  --  --  -- InterfacciaNoRip.java
+ --  --  --  -- InterfacciaRip.java
+ --  --  --  -- LettoreMultimediale.java
+ --  --  --  -- Luminosita.java
+ --  --  --  -- Riproducibile.java
+ --  --  -- PipeStringa.java
+ --  --  -- PipeValerio.java
+ --  -- esercizi8
+ --  --  -- CercaParola.java
+ --  --  -- DivisionePerZeroException.java
+ --  --  -- Ecommerce
+ --  --  --  -- AppComm.java
+ --  --  --  -- Carrello.java
+ --  --  --  -- Computer.java
+ --  --  --  -- Prodotto.java
+ --  --  --  -- Televisore.java
+ --  --  -- EsEcc.java
+ --  --  -- MainAppEs8.java
+ --  --  -- RandomTel.java
+ --  -- eserciziOggetti
+ --  --  -- Singleton.java
+ -- eserciziPack2
+ --  -- adapter
+ --  --  -- Dipendente.java
+ --  --  -- DipendenteAdapter.java
+ --  --  -- DipendenteInterface.java
+ --  --  -- Impiegato.java
+ --  --  -- MainAdpaterDipendente.java
+ --  -- codeEnonSolo
+ --  --  -- EsempioCode.java
+ --  --  -- RuntimeApp.java
+ --  -- eccezioni
+ --  --  -- DivByZeroException.java
+ --  --  -- Prove.java
+ --  --  -- Prove1.java
+ --  -- ereditarieta
+ --  --  -- AppAb.java
+ --  --  -- AppAzienda.java
+ --  --  -- Azienda.java
+ --  --  -- Contratto.java
+ --  --  -- Dipendente.java
+ --  --  -- Persona.java
+ --  -- generici
+ --  --  -- AppGenerici.java
+ --  -- interfacce
+ --  --  -- Animale.java
+ --  --  -- Elefante.java
+ --  --  -- Gatto.java
+ --  --  -- Saltante.java
+ --  --  -- TestAnimale.java
+ --  -- lotto
+ --  --  -- ChiamaNumeriLotto.java
+ --  --  -- GiocatoreLotto.java
+ --  --  -- Schedina.java
+ --  --  -- Superenalotto.java
+ --  -- marshal
+ --  --  -- MainApp.java
+ --  -- proveClassi
+ --  --  -- AppMirror.java
+ --  -- ricorsione
+ --  --  -- FattoBene.java
+ --  --  -- Fib.java
+ --  --  -- SeIntero.java
+ --  -- tacoBell
+ --  --  -- AppCollection.java
+ --  --  -- AppMap.java
+ --  --  -- AppSet.java
+ --  --  -- AppTacoPizze.java
+ --  --  -- Autovettura.java
+ --  --  -- CiboAdapter.java
+ --  --  -- Dolce.java
+ --  --  -- DolceAdapter.java
+ --  --  -- Generatori.java
+ --  --  -- MainAdapter.java
+ --  --  -- PizzaAdapter.java
+ --  --  -- TacoPizze.java
+ --  -- variTest
+ --  --  -- provaaa.java
+ --  --  -- Test2.java
+ --  -- videoteca
+ --  --  -- Prodotti.java
+ --  --  -- UtenteVideoteca.java
+ --  --  -- VideotecaApp.java
  -- inputOutput
  --  -- esFolderTree.java
  --  -- MainApp.java
  --  -- UtilFolderTree.java
- -- Interfacce
- --  -- Animale.java
- --  -- Elefante.java
- --  -- Gatto.java
- --  -- Saltante.java
- --  -- TestAnimale.java
- -- Lotto
- --  -- ChiamaNumeriLotto.java
- --  -- GiocatoreLotto.java
- --  -- Schedina.java
- --  -- Superenalotto.java
- -- Marshal
- --  -- MainApp.java
  -- metodiUtili
  --  -- LeggiDaTastiera.java
  --  -- LeggiStringa.java
  --  -- ParseInteri.java
- -- ProveClassi
- --  -- AppMirror.java
- -- Ricorsione
- --  -- FattoBene.java
- --  -- Fib.java
- --  -- SeIntero.java
  -- RobaDaCancellare.java
- -- TacoBell
- --  -- AppCollection.java
- --  -- AppMap.java
- --  -- AppSet.java
- --  -- AppTacoPizze.java
- --  -- Autovettura.java
- --  -- CiboAdapter.java
- --  -- Dolce.java
- --  -- DolceAdapter.java
- --  -- Generatori.java
- --  -- MainAdapter.java
- --  -- PizzaAdapter.java
- --  -- TacoPizze.java
- -- VariTest
- --  -- provaaa.java
- --  -- Test2.java
- -- Videoteca
- --  -- Prodotti.java
- --  -- UtenteVideoteca.java
- --  -- VideotecaApp.java

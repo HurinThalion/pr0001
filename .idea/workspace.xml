@@ -2,15 +2,205 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="019ebf27-f8c8-4d8c-aa28-b7c9e95d7c72" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/inputOutput/MainApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inputOutput/UtilFolderTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inputOutput/esFolderTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pr0001.iml" beforeDir="false" afterPath="$PROJECT_DIR$/pr0001.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resource/test1.properties" beforeDir="false" afterPath="$PROJECT_DIR$/resources/test1.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resource/test1_en.properties" beforeDir="false" afterPath="$PROJECT_DIR$/resources/test1_en.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resource/test1_fr.properties" beforeDir="false" afterPath="$PROJECT_DIR$/resources/test1_fr.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resource/test1_it.properties" beforeDir="false" afterPath="$PROJECT_DIR$/resources/test1_it.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Adapter/Dipendente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack2/adapter/Dipendente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Adapter/DipendenteAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack2/adapter/DipendenteAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Adapter/DipendenteInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack2/adapter/DipendenteInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Adapter/Impiegato.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack2/adapter/Impiegato.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Adapter/MainAdpaterDipendente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack2/adapter/MainAdpaterDipendente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Eccezioni/DivByZeroException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack2/eccezioni/DivByZeroException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Eccezioni/Prove.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack2/eccezioni/Prove.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Eccezioni/Prove1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack2/eccezioni/Prove1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ereditarieta/AppAb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack2/ereditarieta/AppAb.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ereditarieta/AppAzienda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack2/ereditarieta/AppAzienda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ereditarieta/Azienda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack2/ereditarieta/Azienda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ereditarieta/Contratto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack2/ereditarieta/Contratto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ereditarieta/Dipendente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack2/ereditarieta/Dipendente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ereditarieta/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack2/ereditarieta/Persona.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi/AltroMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi/AltroMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack/esercizi/AltroMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi/Elenco.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi/Elenco.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack/esercizi/Elenco.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi/ModificaVariabili.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi/ModificaVariabili.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack/esercizi/ModificaVariabili.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi/NumeroIntero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi/NumeroIntero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack/esercizi/NumeroIntero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi/Operatori.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi/Operatori.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack/esercizi/Operatori.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi/Palindroma.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi/Palindroma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack/esercizi/Palindroma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi/Persona.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack/esercizi/Persona.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi/Principale.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi/Principale.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack/esercizi/Principale.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi/ProvaNumeroIntero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi/ProvaNumeroIntero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack/esercizi/ProvaNumeroIntero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi/Punto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi/Punto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack/esercizi/Punto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi/Struttura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack/esercizi/Struttura.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi/TestElenco.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi/TestElenco.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack/esercizi/TestElenco.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi/TestEsercizi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi/TestEsercizi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack/esercizi/TestEsercizi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi/Utente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi/Utente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack/esercizi/Utente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi/Variabili.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi/Variabili.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack/esercizi/Variabili.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi2/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi2/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack/esercizi2/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi2/ListaDinamica.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi2/ListaDinamica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack/esercizi2/ListaDinamica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi2/Matrice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi2/Matrice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack/esercizi2/Matrice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi2/Ordina.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi2/Ordina.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack/esercizi2/Ordina.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi2/PassGeneretor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi2/PassGeneretor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack/esercizi2/PassGeneretor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi2/StampaAlfabeto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi2/StampaAlfabeto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack/esercizi2/StampaAlfabeto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi2/StampaPari.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi2/StampaPari.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack/esercizi2/StampaPari.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi2/TavolaPitagorica.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi2/TavolaPitagorica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack/esercizi2/TavolaPitagorica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi3/AppEnum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi3/AppEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack/esercizi3/AppEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi3/EssBooleane.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi3/EssBooleane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack/esercizi3/EssBooleane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi3/HttpMetodi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi3/HttpMetodi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack/esercizi3/HttpMetodi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi3/Provaa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi3/Provaa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack/esercizi3/Provaa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi3/ProvaaMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi3/ProvaaMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack/esercizi3/ProvaaMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi3/TestListaDinamica.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi3/TestListaDinamica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack/esercizi3/TestListaDinamica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi3/WrapperTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi3/WrapperTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack/esercizi3/WrapperTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi4/AncoraMatrici.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi4/AncoraMatrici.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack/esercizi4/AncoraMatrici.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi4/Anonymous.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi4/Anonymous.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack/esercizi4/Anonymous.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi4/ContaInStringa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi4/ContaInStringa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack/esercizi4/ContaInStringa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi4/ContaStringheMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi4/ContaStringheMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack/esercizi4/ContaStringheMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi4/Inception.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi4/Inception.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack/esercizi4/Inception.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi4/LancioMoneta.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi4/LancioMoneta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack/esercizi4/LancioMoneta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi4/Potenza.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi4/Potenza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack/esercizi4/Potenza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi4/Scelte.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi4/Scelte.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack/esercizi4/Scelte.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi5/ArrayList1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi5/ArrayList1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack/esercizi5/ArrayList1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi5/Auto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi5/Auto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack/esercizi5/Auto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi5/CartaSassoForbice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi5/CartaSassoForbice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack/esercizi5/CartaSassoForbice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi5/ChiamaAuto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi5/ChiamaAuto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack/esercizi5/ChiamaAuto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi5/Cifratore.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi5/Cifratore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack/esercizi5/Cifratore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi5/CsfMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi5/CsfMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack/esercizi5/CsfMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi5/MainCifrario.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi5/MainCifrario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack/esercizi5/MainCifrario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi6/ArrayEsACaso.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi6/ArrayEsACaso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack/esercizi6/ArrayEsACaso.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi6/Band.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi6/Band.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack/esercizi6/Band.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi6/BandApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi6/BandApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack/esercizi6/BandApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi6/Bassista.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi6/Bassista.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack/esercizi6/Bassista.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi6/Chitarrista.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi6/Chitarrista.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack/esercizi6/Chitarrista.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi6/InvertiStringa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi6/InvertiStringa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack/esercizi6/InvertiStringa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi6/MonetaTruccata.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi6/MonetaTruccata.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack/esercizi6/MonetaTruccata.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi6/Potenza.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi6/Potenza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack/esercizi6/Potenza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi7/OpzionaleMultimediale/AppMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi7/OpzionaleMultimediale/AppMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack/esercizi7/OpzionaleMultimediale/AppMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi7/OpzionaleMultimediale/Audio.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi7/OpzionaleMultimediale/Audio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack/esercizi7/OpzionaleMultimediale/Audio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi7/OpzionaleMultimediale/ElementoMultimediale.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi7/OpzionaleMultimediale/ElementoMultimediale.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack/esercizi7/OpzionaleMultimediale/ElementoMultimediale.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi7/OpzionaleMultimediale/Filmato.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi7/OpzionaleMultimediale/Filmato.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack/esercizi7/OpzionaleMultimediale/Filmato.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi7/OpzionaleMultimediale/Immagine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi7/OpzionaleMultimediale/Immagine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack/esercizi7/OpzionaleMultimediale/Immagine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi7/OpzionaleMultimediale/InterfacciaNoRip.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack/esercizi7/OpzionaleMultimediale/InterfacciaNoRip.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi7/OpzionaleMultimediale/InterfacciaRip.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi7/OpzionaleMultimediale/InterfacciaRip.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack/esercizi7/OpzionaleMultimediale/InterfacciaRip.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi7/OpzionaleMultimediale/LettoreMultimediale.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi7/OpzionaleMultimediale/LettoreMultimediale.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack/esercizi7/OpzionaleMultimediale/LettoreMultimediale.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi7/OpzionaleMultimediale/Luminosita.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi7/OpzionaleMultimediale/Luminosita.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack/esercizi7/OpzionaleMultimediale/Luminosita.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi7/OpzionaleMultimediale/Riproducibile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack/esercizi7/OpzionaleMultimediale/Riproducibile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi7/PipeStringa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi7/PipeStringa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack/esercizi7/PipeStringa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi7/PipeValerio.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi7/PipeValerio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack/esercizi7/PipeValerio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi_Oggetti/Singleton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Esercizi_Oggetti/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack/eserciziOggetti/Singleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Generici/AppGenerici.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack2/generici/AppGenerici.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Interfacce/Animale.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack2/interfacce/Animale.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Interfacce/Elefante.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack2/interfacce/Elefante.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Interfacce/Gatto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack2/interfacce/Gatto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Interfacce/Saltante.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack2/interfacce/Saltante.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Interfacce/TestAnimale.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack2/interfacce/TestAnimale.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lotto/ChiamaNumeriLotto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack2/lotto/ChiamaNumeriLotto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lotto/GiocatoreLotto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack2/lotto/GiocatoreLotto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lotto/Schedina.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack2/lotto/Schedina.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lotto/Superenalotto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack2/lotto/Superenalotto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Marshal/MainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack2/marshal/MainApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProveClassi/AppMirror.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack2/proveClassi/AppMirror.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ricorsione/FattoBene.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack2/ricorsione/FattoBene.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ricorsione/Fib.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack2/ricorsione/Fib.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ricorsione/SeIntero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack2/ricorsione/SeIntero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TacoBell/AppCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack2/tacoBell/AppCollection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TacoBell/AppMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack2/tacoBell/AppMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TacoBell/AppSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack2/tacoBell/AppSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TacoBell/AppTacoPizze.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack2/tacoBell/AppTacoPizze.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TacoBell/Autovettura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack2/tacoBell/Autovettura.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TacoBell/CiboAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack2/tacoBell/CiboAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TacoBell/Dolce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack2/tacoBell/Dolce.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TacoBell/DolceAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack2/tacoBell/DolceAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TacoBell/Generatori.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack2/tacoBell/Generatori.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TacoBell/MainAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack2/tacoBell/MainAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TacoBell/PizzaAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack2/tacoBell/PizzaAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TacoBell/TacoPizze.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack2/tacoBell/TacoPizze.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/VariTest/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack2/variTest/Test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/VariTest/provaaa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack2/variTest/provaaa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Videoteca/Prodotti.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack2/videoteca/Prodotti.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Videoteca/UtenteVideoteca.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack2/videoteca/UtenteVideoteca.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Videoteca/VideotecaApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack2/videoteca/VideotecaApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codeEnonSolo/EsempioCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack2/codeEnonSolo/EsempioCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codeEnonSolo/RuntimeApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack2/codeEnonSolo/RuntimeApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/esercizi8/CercaParola.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/esercizi8/CercaParola.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack/esercizi8/CercaParola.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/esercizi8/DivisionePerZeroException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/esercizi8/DivisionePerZeroException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack/esercizi8/DivisionePerZeroException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/esercizi8/Ecommerce/AppComm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/esercizi8/Ecommerce/AppComm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack/esercizi8/Ecommerce/AppComm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/esercizi8/Ecommerce/Carrello.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/esercizi8/Ecommerce/Carrello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack/esercizi8/Ecommerce/Carrello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/esercizi8/Ecommerce/Computer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/esercizi8/Ecommerce/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack/esercizi8/Ecommerce/Computer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/esercizi8/Ecommerce/Prodotto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/esercizi8/Ecommerce/Prodotto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack/esercizi8/Ecommerce/Prodotto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/esercizi8/Ecommerce/Televisore.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/esercizi8/Ecommerce/Televisore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack/esercizi8/Ecommerce/Televisore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/esercizi8/EsEcc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/esercizi8/EsEcc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack/esercizi8/EsEcc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/esercizi8/MainAppEs8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/esercizi8/MainAppEs8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack/esercizi8/MainAppEs8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/esercizi8/RandomTel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/esercizi8/RandomTel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/eserciziPack/esercizi8/RandomTel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tree.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tree.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,7 +227,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="454" />
+          <entry key="java" value="456" />
           <entry key="properties" value="9" />
           <entry key="txt" value="40" />
           <entry key="xml" value="4" />
@@ -45,7 +235,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="454" />
+          <entry key="JAVA" value="456" />
           <entry key="PLAIN_TEXT" value="40" />
           <entry key="Properties" value="9" />
           <entry key="XML" value="4" />
@@ -56,20 +246,33 @@
           <entry key="dummy" value="25" />
           <entry key="java" value="66626" />
           <entry key="properties" value="142" />
-          <entry key="txt" value="55" />
+          <entry key="txt" value="74" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="66626" />
-          <entry key="PLAIN_TEXT" value="80" />
+          <entry key="PLAIN_TEXT" value="99" />
           <entry key="Properties" value="142" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/inputOutput/esFolderTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="528">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -165,12 +368,13 @@
             <path>
               <item name="pr0001" type="b2602c69:ProjectViewProjectNode" />
               <item name="pr0001" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="pr0001" type="b2602c69:ProjectViewProjectNode" />
               <item name="pr0001" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="inputOutput" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -179,7 +383,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541582607399" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541583250154" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
@@ -207,7 +411,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RandomTel">
+  <component name="RunManager" selected="Application.esFolderTree">
     <configuration name="MainApp (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="inputOutput.MainApp" />
       <module name="pr0001" />
@@ -235,11 +439,11 @@
       </method>
     </configuration>
     <configuration name="RandomTel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="esercizi8.RandomTel" />
+      <option name="MAIN_CLASS_NAME" value="eserciziPack.esercizi8.RandomTel" />
       <module name="pr0001" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="esercizi8.*" />
+          <option name="PATTERN" value="eserciziPack.esercizi8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -282,8 +486,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RandomTel" />
         <item itemvalue="Application.esFolderTree" />
+        <item itemvalue="Application.RandomTel" />
         <item itemvalue="Application.MainApp (1)" />
         <item itemvalue="Application.Viaggi" />
         <item itemvalue="Application.MainDate" />
@@ -329,7 +533,21 @@
       <option name="project" value="LOCAL" />
       <updated>1541434691095</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="creato folder tree">
+      <created>1541582595208</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1541582595208</updated>
+    </task>
+    <task id="LOCAL-00006" summary="creato folder tree">
+      <created>1541582721379</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1541582721379</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TodoView">
@@ -343,6 +561,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27919462" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -353,7 +572,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32907802" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4986577" visible="true" weight="0.20851064" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4986577" weight="0.20851064" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -378,66 +597,67 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="vedo se mi ricordo come si committa e pusha" />
     <MESSAGE value="fatto robbe" />
-    <option name="LAST_COMMIT_MESSAGE" value="fatto robbe" />
+    <MESSAGE value="creato folder tree" />
+    <option name="LAST_COMMIT_MESSAGE" value="creato folder tree" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Esercizi/AltroMain.java">
+    <entry file="file://$PROJECT_DIR$/src/eserciziPack/esercizi/AltroMain.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-88">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Esercizi/ModificaVariabili.java">
+    <entry file="file://$PROJECT_DIR$/src/eserciziPack/esercizi/ModificaVariabili.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Esercizi/Elenco.java">
+    <entry file="file://$PROJECT_DIR$/src/eserciziPack/esercizi/Elenco.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-685">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Esercizi/Palindroma.java">
+    <entry file="file://$PROJECT_DIR$/src/eserciziPack/esercizi/Palindroma.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-91">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Esercizi/Operatori.java">
+    <entry file="file://$PROJECT_DIR$/src/eserciziPack/esercizi/Operatori.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-311">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Esercizi/Utente.java">
+    <entry file="file://$PROJECT_DIR$/src/eserciziPack/esercizi/Utente.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="63">
           <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Esercizi/Variabili.java">
+    <entry file="file://$PROJECT_DIR$/src/eserciziPack/esercizi/Variabili.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ereditarieta/Persona.java">
+    <entry file="file://$PROJECT_DIR$/src/eserciziPack2/ereditarieta/Persona.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="682">
           <caret line="41" column="56" selection-start-line="41" selection-start-column="56" selection-end-line="41" selection-end-column="56" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ereditarieta/Dipendente.java">
+    <entry file="file://$PROJECT_DIR$/src/eserciziPack2/ereditarieta/Dipendente.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
@@ -522,7 +742,7 @@
       </provider>
       <provider editor-type-id="ResourceBundle" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Marshal/MainApp.java">
+    <entry file="file://$PROJECT_DIR$/src/eserciziPack2/marshal/MainApp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="84" column="13" selection-start-line="84" selection-start-column="13" selection-end-line="84" selection-end-column="13" />
@@ -557,7 +777,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ProveClassi/AppMirror.java">
+    <entry file="file://$PROJECT_DIR$/src/eserciziPack2/proveClassi/AppMirror.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="292">
           <caret line="71" column="57" selection-start-line="71" selection-start-column="57" selection-end-line="71" selection-end-column="57" />
@@ -642,13 +862,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Adapter/Dipendente.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/nio/file/Path.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="471">
@@ -656,17 +869,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/inputOutput/esFolderTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="17" column="75" selection-start-line="17" selection-start-column="75" selection-end-line="17" selection-end-column="75" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/esercizi8/RandomTel.java">
+    <entry file="file://$PROJECT_DIR$/src/eserciziPack/esercizi8/RandomTel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="642">
           <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
@@ -685,6 +888,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tree.txt">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/eserciziPack2/adapter/Dipendente.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/inputOutput/esFolderTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
