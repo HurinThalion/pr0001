@@ -1,15 +1,21 @@
 package eserciziPack3.sistemaTelefonico;
 
-import java.util.Scanner;
+import java.util.Random;
 
 public class MainApp {
 
     public static void main(String[] args) {
 
+        SimCard sim = SimCard.getSimCard(25);
 
-        SimCard s = SimCard.getSimCard(25);
-        Scanner sc = new Scanner(System.in);
-        int t = Integer.parseInt(sc.nextLine());
-        s.insertPhoneCall(t);
+        Random r = new Random();
+
+
+        for(int i = 0; i < 100; i++) {
+            int t = 2 + r.nextInt(3);
+            sim.insertPhoneCall(t, GenPhoneNumber.generaNumeroTel());
+        }
+
+        System.out.println(sim.stampa());
     }
 }
