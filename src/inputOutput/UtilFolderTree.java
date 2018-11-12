@@ -14,6 +14,7 @@ public class UtilFolderTree {
     static private Path pathdest = Paths.get("./tree.txt");
     static private BufferedWriter br;
     static private int cont = 0;
+    static int i = 1;
 
     static {
         try {
@@ -36,8 +37,16 @@ public class UtilFolderTree {
                 }
                 cont = ph.getNameCount() - pog;
                 String[] str = new String[cont];
+
                 for(String s : str) {
-                    s = " -- ";
+                    if(str.length == i) {
+                        s = " -- ";
+                        i = 1;
+                    }else {
+                        s = "    ";
+                        i++;
+                    }
+
                     br.write(s);
                 }
                 br.write(ph.getFileName().toString() + "\n");
@@ -48,6 +57,7 @@ public class UtilFolderTree {
             } catch (IOException e) {
                 System.out.println("errore mentre creo l'albero delle cartelle");
             }
+
 
         });
     }
